@@ -17,10 +17,10 @@ header {
     color: #696871;
     text-decoration: none;
 }
-    .nav__a:hover {
-        color: #19191B;
-        border-bottom: 2px solid #5454D4;
-    }
+.nav__a:hover {
+    color: #19191B;
+    border-bottom: 2px solid #5454D4;
+}
 .header__button {
     height: 60px;
     width: 211px;
@@ -42,10 +42,7 @@ header {
         font-size: 15px;
     }
 
-    .header__nav {
-        /*display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;*/
+    .header__nav {        
         margin-right: 15px;
         margin-left: 15px;
     }

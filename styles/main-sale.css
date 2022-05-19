@@ -33,13 +33,10 @@
     border-radius: 0 10px 10px 0;
     
 }
-
-/* Checked */
 .main-sale__radio-btn input[type=radio]:checked + label {
     background: #5454D4;
     color: #FFFFFF;
 }
-/* Hover */
 .main-sale__radio-btn label:hover {
     color: #666;
 }
@@ -69,7 +66,6 @@
     background: #F8F8F8;
     border-radius: 10px;
     transition: all ease 0.7s;
-    /*padding: 18px;*/
 }
 .tarriffs-block:hover {
     width: 376px;

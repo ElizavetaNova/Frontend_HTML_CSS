@@ -2,10 +2,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /*margin-top:100px;*/
 }
 .main-landing__img {
-    /*width: 510px;*/
     height: 644px;
 }
 .main-landing__title {
@@ -27,8 +25,6 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    
-    /*margin-right: 40px;*/
 }
 .landing-buttons__GS {
     margin-right: 40px;
@@ -48,15 +44,15 @@
     cursor: pointer;
 }
 .landing-buttons__arrow {
-        width: 60px;
-        height: 60px;
-        background: #FFFFFF;
-        border: 1px solid #E7E7E7;
-        border-radius: 60px;
+    width: 60px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    border-radius: 60px;
 }
 .landing-buttons__arrow:hover {
-        border: 2px solid #19191B;
-        cursor: pointer;
+    border: 2px solid #19191B;
+    cursor: pointer;
 }
 @media screen and (max-width: 1080px) {
     
@@ -91,7 +87,7 @@
         justify-content: center;
     }
 }
-@media screen and (max-width: 487px) {
+@media screen and (max-width: 511px) {
     .main-landing__title{
         font-size: 35px;
         height:40%;
